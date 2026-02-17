@@ -1,5 +1,5 @@
 # Enver Kollari | AI-Native Product Engineer & Founder
-### "Engineering High-Quality Products, leveraging AI for Speed."
+### "Engineering Scalable Products with Senior Business Logic, Delivered at AI-Native Speed."
 
 I am a Product Engineer with 13+ years of seniority in Banking and Business Operations. I leverage AI-Native workflows to deliver high-integrity software with the precision of a senior executive and the velocity of an AI agent.
 
