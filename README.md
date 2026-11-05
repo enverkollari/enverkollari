@@ -23,6 +23,8 @@ speed by people who are not looking at the screen.
 
 Next.js, React, TypeScript, Node, PostgreSQL with Prisma. On-premise and self-hosted.
 
+[Walkthrough with screenshots](https://github.com/enverkollari/XPOS)
+
 ### LogiTrack - logistics and fleet management
 
 Sold and live.
@@ -33,6 +35,8 @@ anyone refreshing. Route building is manual and deliberate: you pick the stops p
 the route.
 
 React, Vite, TypeScript, Node, Prisma, socket.io, PWA.
+
+[Walkthrough with screenshots](https://github.com/enverkollari/LogiTrack)
 
 ### XCount - double-entry accounting, in development
 
@@ -51,6 +55,8 @@ application code cannot step around them.
 TypeScript, Node, Next.js, PostgreSQL with Prisma. Unit tests over the ledger, the money type and
 the rules engine. Albanian interface.
 
+[Walkthrough with screenshots](https://github.com/enverkollari/XCount)
+
 ---
 
 ## How I work
@@ -59,9 +65,10 @@ I use AI heavily, Claude daily, and I read what it writes. The judgement about w
 should do, and whether a number is right, is the part I will not delegate - it is the part I was
 trained in.
 
-## Why the repositories are private
+## Why the source is private
 
-They are commercial products. Happy to walk through architecture, schema or
+These are commercial products, so the code stays closed. The three repositories linked above are
+walkthroughs of the working systems, not the source. Happy to talk through architecture, schema or
 specific decisions in a conversation.
 
 ## Contact
