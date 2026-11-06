@@ -21,7 +21,8 @@ Sales, expenses and stock movements, with weighted-average cost inventory valuat
 every stock intake, and a management profit summary the owner reads daily. Built to be used at
 speed by people who are not looking at the screen.
 
-Next.js, React, TypeScript, Node, PostgreSQL with Prisma. On-premise and self-hosted.
+Next.js, React, TypeScript, Node, PostgreSQL accessed through raw SQL rather than an ORM.
+On-premise and self-hosted.
 
 [Walkthrough with screenshots](https://github.com/enverkollari/XPOS)
 
