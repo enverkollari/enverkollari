@@ -21,8 +21,8 @@ Sales, expenses and stock movements, with weighted-average cost inventory valuat
 every stock intake, and a management profit summary the owner reads daily. Built to be used at
 speed by people who are not looking at the screen.
 
-Next.js, React, TypeScript, Node, PostgreSQL accessed through raw SQL rather than an ORM.
-On-premise and self-hosted.
+React with TypeScript on Vite, Node and Express, PostgreSQL accessed through raw SQL rather than an
+ORM, Socket.IO. On-premise and self-hosted, installed as a Windows service.
 
 [Walkthrough with screenshots](https://github.com/enverkollari/XPOS)
 
